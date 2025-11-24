@@ -13,7 +13,24 @@ public class GradeCalculator {
      */
 
     public static String grade(int punkte) {
-        // TODO: implementieren
-        return "nicht bestanden";
+        if (punkte < 0 || punkte > 100) {
+            throw new IllegalArgumentException("Punktzahl muss zwischen 0 und 100 liegen");
+        }
+//        Ohne Exception
+//        if (punkte < 0 || punkte > 100) {
+//            return "ungültig";
+//        }
+
+        if (punkte >= 90) {
+            return "1";
+        } else if (punkte >= 80) {
+            return "2";
+        } else if (punkte >= 65) {
+            return "3";
+        } else if (punkte >= 50) {
+            return "4";
+        } else {
+            return "nicht bestanden";
+        }
     }
 }

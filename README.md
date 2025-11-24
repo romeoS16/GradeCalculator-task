@@ -1,7 +1,9 @@
 # Aufgabe – Notenrechner (Gruppe C – TDD + KI)
 
 In dieser Aufgabe üben Sie **Test-Driven Development (TDD)** und dürfen zusätzlich eine KI
-(z.B. ChatGPT) unter klar definierten Bedingungen verwenden.
+(z.B. ChatGPT) unter klar definierten Bedingungen verwenden.  
+
+---
 
 ## Aufgabe
 
@@ -60,7 +62,9 @@ Sie dürfen eine KI (z.B. ChatGPT) zur Unterstützung einsetzen – aber nur nac
 
 **(3) Wichtig:**
 - Sie sind verantwortlich, die KI-Vorschläge kritisch zu prüfen und ggf. anzupassen.
-- Das spätere Quiz zur Einheit wird ohne KI bearbeitet.
+- Das spätere Quiz zur Einheit wird ohne KI bearbeitet.  
+
+---
 
 **Technische Hinweise**  
 - Projekt-Typ: Maven, Java (z.B. JDK 17), JUnit 5.

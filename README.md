@@ -35,7 +35,9 @@ Schreiben Sie Tests in der [GradeCalculatorTest](src/test/java/GradeCalculatorTe
 - Testen Sie typische Werte (z.B. 95, 82, 70, 50, 30).
 - Testen Sie besonders die Grenzwerte: 49/50, 64/65, 79/80, 89/90.
 
-(3) Führen Sie Ihre Tests regelmäßig aus und ergänzen Sie weitere Testfälle, wenn Sie Fehler finden.
+(3) Führen Sie Ihre Tests regelmäßig aus und ergänzen Sie weitere Testfälle, wenn Sie Fehler finden.  
+
+---
 
 **Technische Hinweise**
 - Projekt-Typ: Maven, Java (z.B. JDK 17), JUnit 5.

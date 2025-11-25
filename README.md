@@ -31,7 +31,7 @@ Schreiben Sie Tests in der [GradeCalculatorTest](src/test/java/GradeCalculatorTe
 Grundsätzlich arbeiten Sie wie in Gruppe B:
 
 (1) Red – Test schreiben
-- Schreiben Sie zuerst eigene Testfälle in GradeCalculatorTest (ohne KI).
+- Schreiben Sie zuerst eigene Testfälle in GradeCalculatorTest.
 - Starten Sie mit einfachen Fällen (z.B. 95 → "1", 30 → "nicht bestanden").
 
 (2) Green – minimaler Code
